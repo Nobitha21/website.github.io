@@ -1,2 +1,2 @@
 Login page Using HTML and CSS
-https://github.com/Nobitha21/website.github.io.git
+https://nobitha21.github.io/website.github.io/
